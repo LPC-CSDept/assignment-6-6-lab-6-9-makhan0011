@@ -29,4 +29,4 @@ int maxMin(int n1, int n2, int n3, int &max, int &min)
         max = n3;
 
     return min, max;
-}
+} 
